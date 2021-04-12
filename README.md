@@ -1,5 +1,5 @@
 # plutosdr-fw : lifeatthesharpend fork 
-Note: this project was forked from: [Analog Devices at](https://github.com/analogdevicesinc/plutosdr-fw/) the purpose for this forks is to correct some of the build instructions relating to the xilinx tool chain versioning and custom builds. Use at your own risk 
+Note: this project was forked from: [Analog Devices "here"](https://github.com/analogdevicesinc/plutosdr-fw/) the purpose for this forks is to correct some of the build instructions relating to the xilinx tool chain versioning and custom builds. Use at your own risk 
 
 PlutoSDR Firmware for the [ADALM-PLUTO](https://wiki.analog.com/university/tools/pluto "PlutoSDR Wiki Page") Active Learning Module
 
